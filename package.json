@@ -1,0 +1,15 @@
+{
+  "name": "emly",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phantomjs": "~1.9.7-8",
+    "kew": "~0.4.0"
+  }
+}
