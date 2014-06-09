@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "phantomjs": "~1.9.7-8",
-    "kew": "~0.4.0"
+    "kew": "~0.4.0",
+    "phantomjs": "~1.9.7-8"
   }
 }
